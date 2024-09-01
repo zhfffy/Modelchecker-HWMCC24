@@ -19,10 +19,15 @@ For **safe** circuits, Modelchecker will output "0" along with the runtime. Addi
 # Authors
 
 Lingfeng Zhu, zhulf@ios.ac.cn
+
 University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences
+
 
 Xindi Zhang, zhulf@ios.ac.cn
+
 University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences
 
+
 Shaohuang Chen, chensh@ios.ac.cn
+
 University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences
