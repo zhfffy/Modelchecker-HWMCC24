@@ -12,4 +12,4 @@ To use Modelchecker, run the following command in the project directory:
 ```
 
 For unsafe circuits, Modelchecker will output a a witness to the standard output and display the program's runtime. 
-For safe circuits, Modelchecker will output "0" along with the runtime. Additionally, it will generate the circuit's certificate in both AIG and AAG formats in the current working directory, named certificate.aig and certificate.aag respectively.
+For safe circuits, Modelchecker will output "0" along with the runtime. Additionally, it will generate the circuit's certificate in both AIG and AAG formats in the current working directory, named `certificate.aig` and `certificate.aag` respectively.
